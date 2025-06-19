@@ -1,0 +1,5 @@
+streamlit
+pdfplumber
+numpy
+requests
+faiss-cpu
